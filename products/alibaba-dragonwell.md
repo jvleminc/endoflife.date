@@ -78,7 +78,7 @@ releases:
 
 -   releaseCycle: "8"
     lts: true
-    releaseDate: 2019-06-24
+    releaseDate: abc
     eol: 2026-06-30
     latest: "8.15.16"
     latestReleaseDate: 2023-05-09
